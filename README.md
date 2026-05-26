@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 ##### Connect with me
 
-![https://www.instagram.com/tauhidfebryan18/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://discordapp.com/users/694837378598174791](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tauhidfebryan18/) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/694837378598174791)
