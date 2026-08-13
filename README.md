@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- **I’m currently learning in College**
+- **Take a look**
 
 ##### Skills
 
